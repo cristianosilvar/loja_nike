@@ -4,6 +4,10 @@
 
 ![Site da Nikepagina-inicial](https://user-images.githubusercontent.com/94191704/184549672-2a5ea3ee-6e9e-42bb-a3e5-e9c348c85a19.png)
 
+<h3>Página de compra</h3>
+
+![Site da Nike](https://user-images.githubusercontent.com/94191704/184550211-38e4e420-0b09-415a-82e1-2a4122a1aea2.png)
+
 <h2>Administrador</h2>
 
 <h3>Login</h3>
